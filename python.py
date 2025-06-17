@@ -31,5 +31,3 @@ def chat_with_llama3(message):
 
     bot.reply_to(message, reply)
 
-print("🤖 Bot is running...")
-bot.infinity_polling()
